@@ -101,6 +101,3 @@ docker run --rm -p 1234:1234 khaledyasser31/rpc-chat-server:new
 ```bash
 go run client.go
 ```
-
-قولّي الشكل اللي تفضّله وأنا أبعتلك الملف فورًا ❤️
-```
