@@ -3,6 +3,10 @@
 This project contains a simple Go RPC chat server and client.  
 The goal of the assignment is to run the server inside a Docker container, test it using the client, and push the Docker image to Docker Hub.
 
+## 🌐 Docker Hub Link of image:
+
+[https://hub.docker.com/r/khaledyasser31/rpc-chat-server](https://hub.docker.com/r/khaledyasser31/rpc-chat-server)
+
 ---
 
 ## 📂 Project Files
@@ -82,13 +86,6 @@ docker push khaledyasser31/rpc-chat-server:new
 
 ---
 
-## 🌐 Docker Hub Link
-
-Your pushed image:
-
-[https://hub.docker.com/r/khaledyasser31/rpc-chat-server](https://hub.docker.com/r/khaledyasser31/rpc-chat-server)
-
----
 
 ## ▶️ How to Run the Server (from Docker Hub)
 
